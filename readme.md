@@ -5,4 +5,4 @@ pour se faire, nous avons recupéré un driver PWM sur un github (https://github
 
 Dans ce projet, nous avons écris un code en langage C qui sert à piloter les boutons sur la carte. Ces boutons servent ici à augmenter ou reduire la largeur du PWM ce qui engendre ici la variation de vitesse du moteur DC, puis de changer le sens de rotation du moteur.
 
-Vous trouverez une explication plus détaillée des différentes étapes réalisées pour mener à bien ce projet dans le fichier hardwaresoftware tutoriel, ainsi que les codes commentés dans le fichiers projet_HW.zip. 
+Vous trouverez une explication plus détaillée des différentes étapes réalisées pour mener à bien ce projet dans le fichier hardwaresoftware tutoriel, ainsi que les codes commentés dans le fichiers soc_systemlast.zip. 
