@@ -1,4 +1,4 @@
-## Commande d'un moteur DC bidirectionnel via PWM
+# Commande d'un moteur DC bidirectionnel via PWM
 
 Ce projet qui entre dans le cadre du cours de hardware-software à pour but de piloter à partir d'un software une carte FPGA afin de commander un Moteur Dc bidirectionnel.
 pour se faire, nous avons recupéré un driver PWM sur un github (https://github.com/Jolan-Dubrulle/Driver-PWM-bidirectional-DC-Motor). Ce driver étant écrit en langage vhdl, nous avons adapté ce code sur notre carte DE0-nano-SoC d'altéra via l'interface que nous propose Quartus (Quartus Prime 18.1) Lite Edition afin de piloter notre moteur.
